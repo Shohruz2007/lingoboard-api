@@ -1,0 +1,12 @@
+/venv/
+*.pyc
+__pycache__/
+db.sqlite3
+assessment/migrations/
+material/migrations/
+user/migrations/
+/media/
+/staticfiles/
+.env
+!.env.sample
+.DS_Store

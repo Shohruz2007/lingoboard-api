@@ -1,0 +1,252 @@
+Check the following ielts writing task for the following criterias:
+
+1️⃣ Task Response (Task 2) / Task Achievement (Task 1)
+ • Band 9: Fully addresses all parts with insightful ideas, clear progression, extended and well-developed responses.
+ • Band 8: Covers all parts with relevant ideas. Minor underdevelopment is allowed.
+ • Band 7: Addresses the task but may have some underdeveloped parts or partial ideas.
+ • Band 6: Addresses the main points but may miss some or include irrelevant information.
+
+🧠 Advanced Assessment:
+
+Sub-Criterion Question
+Task Coverage Are all points in the question addressed logically and sufficiently?
+Relevance Are all examples, ideas, and evidence directly connected to the main point?
+Development Depth Are reasons/examples expanded with explanations or mini conclusions?
+Counterarguments (Task 2) Are opposing views acknowledged and refuted effectively?
+
+
+⸻
+
+2️⃣ Coherence and Cohesion
+ • Band 9: Seamless logical flow, wide range of cohesive devices used naturally, no mechanical linking.
+ • Band 8: Logical sequencing, occasional overuse of cohesive devices.
+ • Band 7: Clear progression, some over/under-use of connectors, paragraphing mostly logical.
+ • Band 6: Organization is clear but may be mechanical or repetitive, paragraphs may lack unity.
+
+🧠 Advanced Assessment:
+
+Sub-Criterion Question
+Macro Coherence Are paragraphs logically sequenced (e.g. background → main idea → result)?
+Micro Coherence Do sentences within a paragraph build on each other?
+Cohesive Devices Is there a variety of cohesive phrases (besides “because” and “but”)?
+Paragraph Unity Does each paragraph focus on one main idea? Are digressions avoided?
+
+
+⸻
+
+3️⃣ Lexical Resource
+ • Band 9: Wide range of natural, precise vocabulary, effective use of collocation, idiomatic use.
+ • Band 8: Wide vocabulary with occasional inaccuracies or awkwardness.
+ • Band 7: Adequate vocabulary for the task; some inappropriate word choices.
+ • Band 6: Limited range, repetitive, errors in word choice or collocation.
+
+📊 Advanced Lexical Analysis:
+
+Sub-Criterion Question
+Range Are rare or academic-level words used appropriately?
+Precision Are words used in their exact intended meaning?
+Collocation Are combinations like “take measures,” “a surge in prices” natural?
+Tone/Formality Is the tone suitable for academic writing (no contractions, no idioms unless formal)?
+
+✅ Tools to help: Use corpus tools like COCA or academic word lists to verify usage.
+
+⸻
+
+4️⃣ Grammatical Range and Accuracy
+ • Band 9: Full range of structures; rare minor slips, natural control.
+ • Band 8: Wide range; mostly error-free; few awkward sentences.
+ • Band 7: Variety of complex structures; frequent but not impeding errors.
+ • Band 6: Some complex structures but errors may affect clarity.
+
+🧠 Advanced Grammar Evaluation:
+
+Sub-Criterion Question
+Sentence Variety Are there embedded clauses, relative clauses, inversion, conditionals?
+Error Type Are the errors slips (e.g. articles) or systematic grammar gaps?
+Tense Accuracy Is tense consistent and contextually accurate?
+Punctuation Are commas, colons, and semicolons used appropriately?
+
+🧩 Error Classification:
+Label the type of grammar errors:
+
+ • Subject-verb agreement (SVA)
+ • Run-on/fused sentences
+ • Misplaced modifiers
+ • Faulty parallelism
+ • Preposition misuse
+
+
+I need fully detailed feedback with all details. Add the reference to each place of suggesstion:
+ 1. ✅ Task Response
+ 2. 🔗 Coherence and Cohesion
+ 3. 📚 Lexical Resource
+ 4. 🧠 Grammatical Range and Accuracy...
+
+Here is example of feedback:
+Absolutely! Here’s a **full, detailed IELTS Task 2 essay feedback** for your writing on the topic “Prevention is better than cure.”
+For each issue, I’ll reference the original part and explain *why* it’s a problem, and suggest improvements (lexical, grammar, logic, coherence, and task achievement).
+
+---
+
+### 1. **Introduction**
+
+**Original:**
+According to some, in order to cure certain diseases or getting consult from doctors got exorbitant. So they support to find preventative methods that suit for budget. I firmly believe that treating illnesses are getting overpriced and should be avoided before it becomes harmful for others.
+
+**Feedback:**
+
+* **“in order to cure certain diseases or getting consult from doctors got exorbitant”**
+
+  * *Issue*: This is grammatically incorrect and unclear.
+  * *Upgrade*: Use: “the cost of curing certain diseases or consulting doctors has become exorbitant.”
+  * *Why*: Past simple or present perfect needed, and “getting consult” is incorrect.
+* **“So they support to find preventative methods that suit for budget.”**
+
+  * *Issue*: “support to find” is awkward; “suit for budget” is incorrect collocation.
+  * *Upgrade*: “So, they support investing in preventative methods that are more affordable.”
+  * *Why*: Use the correct collocations (“investing in,” “affordable/preferable”).
+* **“I firmly believe that treating illnesses are getting overpriced and should be avoided before it becomes harmful for others.”**
+
+  * *Issue*: “Treating illnesses are” (subject-verb agreement); also, “should be avoided before it becomes harmful for others” is awkward and illogical.
+  * *Upgrade*: “I firmly believe that the cost of treating illnesses is becoming too high, and investing in prevention is a better approach.”
+  * *Why*: Subject-verb agreement and clarity.
+
+---
+
+### 2. **First Body Paragraph**
+
+**Original:**
+To commence with with, the reason of this is improved quality of life. Through taking heavy drugs, an infected organism can be promoted but demonstrates side effects to other parts. But the prevention keeps the overall health and well-being at the same level, allows being more productive. For example if someone has physical illness, indeed, being active contributes to improve recovering of human body, also releases the overwhelming on the the the brain and keeps away from the stress.
+
+**Feedback:**
+
+* **“To commence with with, the reason of this is improved quality of life.”**
+
+  * *Issue*: Typo “with with”; “the reason of this is” is awkward.
+  * *Upgrade*: “To begin with, prevention leads to an improved quality of life.”
+  * *Why*: Use natural linking phrases and direct statements.
+* **“Through taking heavy drugs, an infected organism can be promoted but demonstrates side effects to other parts.”**
+
+  * *Issue*: “Infected organism can be promoted” is unclear, “demonstrates” not appropriate for “side effects.”
+  * *Upgrade*: “Taking strong medication may treat the disease, but it often causes side effects in other parts of the body.”
+  * *Why*: Use accurate biological and medical language.
+* **“But the prevention keeps the overall health and well-being at the same level, allows being more productive.”**
+
+  * *Issue*: Awkward, run-on sentence.
+  * *Upgrade*: “In contrast, prevention helps maintain overall health and well-being, making individuals more productive.”
+  * *Why*: Use contrast linking words and concise structure.
+* **“For example if someone has physical illness, indeed, being active contributes to improve recovering of human body, also releases the overwhelming on the the the brain and keeps away from the stress.”**
+
+  * *Issues*:
+
+    * Awkward phrasing: “improve recovering of human body”
+    * Typos: “the the the”
+    * “releases the overwhelming on the brain” is unclear
+  * *Upgrade*: “For example, if someone has a physical illness, staying active can aid recovery, reduce stress, and improve mental health.”
+  * *Why*: More natural and precise.
+
+---
+
+### 3. **Second Body Paragraph**
+
+**Original:**
+Moreover, the prevention can help the durance of treatment. It means that staying at hospital and taking medicines spend much of time and energy because the line of injections, maybe, in profound amounts and a lot. At that time, the person who encountered contagious infection, they have a big chance to spread these diseases among clinics and community. As it can be seen two dangers have high occurence while treating in some spots. That's why the preference to prevenattive ways are more than long-term treatment.
+
+**Feedback:**
+
+* **“the prevention can help the durance of treatment.”**
+
+  * *Issue*: “durance” is not used in this context, “the prevention” is awkward.
+  * *Upgrade*: “Moreover, prevention can reduce the length and complexity of medical treatment.”
+  * *Why*: Use common vocabulary.
+
+* **“staying at hospital and taking medicines spend much of time and energy because the line of injections, maybe, in profound amounts and a lot.”**
+
+  * *Issue*: Unclear meaning, awkward phrasing.
+  * *Upgrade*: “Being hospitalized and undergoing treatments such as frequent injections is time-consuming and exhausting.”
+  * *Why*: Clear, concise, natural English.
+
+* **“At that time, the person who encountered contagious infection, they have a big chance to spread these diseases among clinics and community.”**
+
+  * *Issue*: Awkward, run-on, “big chance” is informal.
+  * *Upgrade*: “Furthermore, those with contagious diseases may spread infections to others in clinics and the wider community.”
+  * *Why*: Natural and more formal.
+
+* **“As it can be seen two dangers have high occurence while treating in some spots.”**
+
+  * *Issue*: Unclear, “two dangers” not specified, “spots” is not the right word.
+  * *Upgrade*: “Thus, there are two major risks associated with treatment: time and resource consumption, and the risk of spreading diseases.”
+  * *Why*: Specify what the dangers are.
+
+* **“That's why the preference to prevenattive ways are more than long-term treatment.”**
+
+  * *Issue*: “preference to prevenattive ways are more than long-term treatment” is grammatically incorrect.
+  * *Upgrade*: “For these reasons, preventative measures are preferable to long-term treatments.”
+  * *Why*: Correct structure and clarity.
+
+---
+
+### 4. **Conclusion**
+
+**Original:**
+In conclusion, although the treatment gives a guarantee to the patient to be completely in good form, avoidance from the illness independently, saves the money, time and general health of human.
+
+**Feedback:**
+
+* **“treatment gives a guarantee to the patient to be completely in good form”**
+
+  * *Issue*: Unnatural phrasing, overgeneralization (treatment doesn’t always guarantee full recovery).
+  * *Upgrade*: “Although treatment can sometimes restore patients to full health…”
+  * *Why*: Use cautious language.
+* **“avoidance from the illness independently, saves the money, time and general health of human.”**
+
+  * *Issue*: “avoidance from the illness independently” is awkward; “saves the money, time and general health of human” – missing article, plural.
+  * *Upgrade*: “…preventing illness in the first place saves money, time, and protects people’s overall well-being.”
+  * *Why*: Clear, natural, grammatically correct.
+
+---
+
+### 5. **General Comments**
+
+* **Coherence & Cohesion**: Ideas are somewhat clear but linking between them is weak. Use more linking devices (e.g., “Furthermore,” “As a result,” “For instance,” etc.).
+* **Lexical Resource**: Use more precise vocabulary and correct collocations (“prevention,” “treatment,” “side effects,” “contract a disease,” “transmit infections”).
+* **Grammar**: Multiple issues with subject-verb agreement, article use, and sentence structure.
+* **Task Achievement**: You address the prompt, but main ideas are sometimes unclear or illogical. Expand on *why* prevention is better and consider the other side (why some investment in treatment is still needed).
+
+---
+
+## **Summary Table**
+
+| Part                                                                 | Issue/Original                | Feedback & Upgrade                                                           |
+| -------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------- |
+| Intro - “got exorbitant”                                             | Incorrect tense/phrase        | “has become exorbitant”                                                      |
+| Intro - “support to find preventative...”                            | Wrong verb/collocation        | “support investing in preventative measures that are more affordable”        |
+| Intro - “treating illnesses are...”                                  | Subject-verb agreement, logic | “the cost of treating illnesses is becoming too high…”                       |
+| Body 1 - “To commence with with”                                     | Typo, awkward linking         | “To begin with,”                                                             |
+| Body 1 - “infected organism can be promoted”                         | Meaning unclear               | “strong medication may treat the disease, but it often causes side effects…” |
+| Body 1 - “being active contributes to improve recovering…”           | Awkward, unnatural            | “being active can aid recovery, reduce stress, and improve mental health.”   |
+| Body 2 - “the prevention can help the durance of treatment.”         | Word choice, unclear          | “prevention can reduce the length and complexity of medical treatment.”      |
+| Body 2 - “line of injections, maybe, in profound amounts and a lot.” | Unclear, awkward              | “frequent injections is time-consuming and exhausting.”                      |
+| Body 2 - “they have a big chance to spread”                          | Informal, awkward             | “may spread infections to others in clinics and the wider community.”        |
+| Body 2 - “two dangers have high occurence”                           | Unclear, what dangers?        | “there are two major risks: time/resource drain and disease transmission.”   |
+| Conclusion - “avoidance from the illness independently”              | Awkward, unclear              | “preventing illness in the first place…”                                     |
+
+---
+
+## **Band Score Estimate**
+
+* **Likely Band:** 5.0 – 5.5
+  Major grammatical and vocabulary errors, but the overall message can be understood. More work is needed on accuracy, clarity, and coherence to reach Band 6 or higher.
+
+---
+
+## **What To Do Next**
+
+* Work on grammar basics: sentence structure, agreement, articles.
+* Practice clear topic sentences and logical flow.
+* Use sample Band 7+ essays as models for language and organization.
+* Always proofread for word repetition (“the the the”), typos, and run-on sentences.
+
+---
+
+**Would you like a fully rewritten, Band 7+ sample answer for this topic as well?**
